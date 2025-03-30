@@ -25,7 +25,6 @@ a{
   font-size: large;
 }
  .container-1{
-  border: 2px solid gray;
   text-align: center;
 }
 .container-2{
@@ -43,7 +42,7 @@ navbar{
 
 nav{
   a{
-    color:;
+    color:black;
       text-decoration: none;
       padding-right:1rem ;
       color: white;
@@ -56,9 +55,22 @@ nav{
   margin: auto;
 }
 .set-image{
-  height: 10vh ;
+  height: 25vh ;
 }
 .flex-container{
   display: flex;
   flex-direction: row;
+  padding-right: 200px;
+}
+.section-1{
+  padding-right:;
+  
+}
+.blogs-align{
+  border: 2px solid white;
+  height: 35vh;
+  border-radius: 20px;
+  width:300px;
+  padding-top: 50px;
+  margin-top: 50px;
 }
