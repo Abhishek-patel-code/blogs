@@ -1,0 +1,28 @@
+.setting-image{
+    height: 40vh;
+   padding-left:450px ;
+   padding-top: 15px;
+}
+.heading-align{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    a{
+        
+    }
+}
+
+a{
+    background-color: gray;
+    color: beige;
+    border: 10px;
+    border-radius: 2px;
+    height: 5px;
+    width: 3px;
+}
+body{
+    background-image: linear-gradient(to left, purple,#6887b5, #00a5ce, #00c1c1, #40d590, #b5df55 , yellow);
+    
+  }
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}   
